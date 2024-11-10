@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: white;
+}
+.imagen-constainer{
+    position: relative;
+    transition: transform 0.2s;
+}
+.imagen-constainer:hover{
+    cursor:pointer;
+    transform: scale(1.1);
+
+}
